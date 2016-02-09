@@ -1,12 +1,12 @@
 ## X-Men Cards
 - Using `Backbone` and `Underscore` templates:
 - Create a front end app ***Xavier's Institute of Higher Learning***
-- Create an ***XMan*** model. There's some sample data below.
-- Instantiate 3 instances of the model, each to represent a different mutant
-- Give each instance its own attributes which represents its mutant abilities
-- Give each mutant a catchphrase
-- Create a single page app with all of the mutants.
+- Create an ***XMan*** model.
+- Add some data to the model (use faker if you like)
+- Give each mutant a name, ability and a catchphrase
+- Create a single page app to display the mutants
 - Clicking on a mutant should append that mutant's catchphrase to the speech bubble using some animation.
+- Consider on click 'flipping' the card to reveal the mutants name and ability.
 
 ```object
 mutants: [
