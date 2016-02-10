@@ -4,7 +4,7 @@
 - Create an ***XMan*** model.
 - Add some data to the model (use faker if you like)
 - Give each mutant a name, ability and a catchphrase
-- Create a single page app to display the mutants
+- Create a single page app to display the mutants. Make it look good! 
 - Clicking on a mutant should append that mutant's catchphrase to the speech bubble using some animation.
 - Consider on click 'flipping' the card to reveal the mutants name and ability.
 
@@ -39,3 +39,8 @@ Home page
 Card clicked state
 
 ![http://puu.sh/n22by/dd353c9b3d.png](http://puu.sh/n22by/dd353c9b3d.png)
+
+
+### Extension
+
+Add a backbone router to take to the user to a more details page when they click a card.
